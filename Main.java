@@ -1,5 +1,9 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Witaj swiecie!");
+    int a;
+    a=5;
+    System.out.print("Zmienna ma wartośc "  );
+    System.out.println(a);
+      
   }
 }
